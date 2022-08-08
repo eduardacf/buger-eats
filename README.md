@@ -28,17 +28,15 @@ Desenvolvido durante o curso **Cypress Discovery** promovido pela plataforma [[Q
 - JavaScript
 
 ## ⚙️ Executando o Projeto
+- Clone este repositório:
 ```javascript
-- Clone este repositório
 $ git clone https://github.com/eduardacf/buger-eats
 ```
 A execução pode ser feita através da linha de comando ou do painel framework.
 
-- **Linha de comando:
-**
+- **Linha de comando: **No diretorio buger-eats, execute:
 
 ```javascript
-No diretorio buger-eats, execute:
 $ npx cypress open
 ```
 
@@ -48,7 +46,9 @@ Após isso, é só escolher a spec desejada e assistir a execução dos testes.
 
 OU
 
+No diretorio pasta buger-eats, execute:
+
 ```javascript
-# No diretorio pasta buger-eats, execute:
 $ npx cypress run
 ```
+
