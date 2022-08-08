@@ -34,7 +34,7 @@ $ git clone https://github.com/eduardacf/buger-eats
 ```
 A execução pode ser feita através da linha de comando ou do painel framework.
 
-- **Linha de comando: **No diretorio buger-eats, execute:
+- **Linha de comando:** No diretorio buger-eats, execute:
 
 ```javascript
 $ npx cypress open
