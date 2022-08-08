@@ -40,7 +40,7 @@ A execução pode ser feita através da linha de comando ou do painel framework.
 $ npx cypress open
 ```
 
-- **Painel: **  Basta abrir o Cypress e através da interface dele escolher a pasta do projeto.
+- **Painel:** Basta abrir o Cypress e através da interface dele escolher a pasta do projeto.
 
 Após isso, é só escolher a spec desejada e assistir a execução dos testes.
 
