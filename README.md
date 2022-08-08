@@ -1,4 +1,4 @@
-[![](https://github.com/RafaelVsc/buger-eats-cypress-automation/blob/main/img/buger-eats.svg)](http://https://github.com/RafaelVsc/buger-eats-cypress-automation/blob/main/img/buger-eats.svg)
+[![](https://user-images.githubusercontent.com/56574192/178992468-5193e05d-d28c-43a7-8185-66cdbf483f88.png)](https://user-images.githubusercontent.com/56574192/178992468-5193e05d-d28c-43a7-8185-66cdbf483f88.png)
 
 ## Projeto
 Projeto desenvolvido para o curso ***Cypress Discovery do QAninja.***
@@ -52,3 +52,18 @@ No diretorio pasta buger-eats, execute:
 $ npx cypress run
 ```
 
+------------
+
+
+##### 🛠️ O projeto esta rodando na Nuvem para acessar o dashboard clique [aqui](https://dashboard.cypress.io/projects/tnvq67/runs/3/test-results?actions=%5B%5D&browsers=%5B%5D&groups=%5B%5D&isFlaky=%5B%5D&modificationDateRange=%7B%22startDate%22%3A%221970-01-01%22%2C%22endDate%22%3A%222038-01-19%22%7D&orderBy=EXECUTION_ORDER&oses=%5B%5D&specs=%5B%5D&statuses=%5B%5D&testingTypesEnum=%5B%5D "aqui")
+
+------------
+
+
+## 📝 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+------------
+
+
+Feito com horas em frente ao 👨‍💻 por [Eduarda Ferreira](https://www.linkedin.com/in/eduarda-ferreira/ "Eduarda Ferreira")
